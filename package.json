@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-lodash",
+  "version": "0.0.1",
+  "description": "vue-cli plugin for lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasery/vue-cli-plugin-lodash.git"
+  },
+  "keywords": [
+    "vue-cli",
+    "plugin",
+    "lodash"
+  ],
+  "author": "Jasery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasery/vue-cli-plugin-lodash/issues"
+  },
+  "homepage": "https://github.com/jasery/vue-cli-plugin-lodash#readme"
+}
