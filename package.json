@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-lodash",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "vue-cli plugin for lodash",
   "main": "index.js",
   "scripts": {
