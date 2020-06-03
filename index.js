@@ -4,7 +4,7 @@ module.exports = (api, projectOptions) => {
     lodashPluginOptions = projectOptions.pluginOptions.lodash
   }
 
-  let { provideEnable = true } = lodashPluginOptions
+  let { provide } = lodashPluginOptions
 
   api.chainWebpack(webpackConfig => {
 
