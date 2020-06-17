@@ -21,7 +21,7 @@ module.exports = (api, projectOptions) => {
       .plugin('lodash-webpack')
       .use(require('lodash-webpack-plugin'), [])
 
-    if (provideEnable) {
+    if (provide) {
       const { ProvidePlugin } = require('webpack')
       webpackConfig.plugin('provide')
         .use(ProvidePlugin, [{
