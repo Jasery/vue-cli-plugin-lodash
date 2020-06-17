@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/jasery/vue-cli-plugin-lodash/issues"
   },
-  "homepage": "https://github.com/jasery/vue-cli-plugin-lodash#readme"
+  "homepage": "https://github.com/jasery/vue-cli-plugin-lodash#readme",
+  "devDependencies": {
+    "babel-plugin-lodash": "^3.3.4",
+    "lodash-webpack-plugin": "^0.11.5"
+  }
 }
